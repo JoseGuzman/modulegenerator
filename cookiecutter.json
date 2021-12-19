@@ -1,0 +1,8 @@
+{
+    "author": "NameSurnane",
+    "mail": "{{cookiecutter.author.lower().replace('_','_')}}@gmail.com",
+    "project": "project_name",
+    "project_name": "{{ cookiecutter.project.lower().replace(' ', '_') }}",
+    "module": "src",
+    "description": "{{cookiecutter.module}} is a Python module"
+}
