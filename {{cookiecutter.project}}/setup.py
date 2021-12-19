@@ -2,7 +2,7 @@
 setup.py
 
 Author: {{cookiecutter.author}}, {{cookiecutter.mail}} 
-Created: {% now 'utc', '%Y' %}
+Created: {% now 'local', '%d/%m/%Y' %}
 
 Installation file required for the {{cookiecutter.module}}  module
 """

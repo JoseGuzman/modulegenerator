@@ -3,7 +3,7 @@
 {{cookiecutter.module}} 
 
 Author: {{cookiecutter.author}}, {{cookiecutter.mail}} 
-Created: {% now 'utc', '%Y' %}
+Created: {% now 'local', '%d/%m/%Y' %}
 
 """
 
