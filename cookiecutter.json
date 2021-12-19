@@ -1,7 +1,7 @@
 {
     "author": "Name Surnane",
-    "mail": "{{cookiecutter.author.lower().replace(' ','.')}}@gmail.com",
-    "github.user": "{{cookiecutter.author.lower().replace(' ','')}}"  
+    "mail": "{{cookiecutter.author.lower().replace(' ','.')}}<at>gmail.com",
+    "github.user": "{{cookiecutter.author.lower().replace(' ','')}}",  
     "project": "project_name",
     "module": "src",
     "description": "{{cookiecutter.module}} is a Python module"
