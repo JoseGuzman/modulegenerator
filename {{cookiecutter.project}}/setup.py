@@ -2,7 +2,7 @@
 setup.py
 
 Author: {{cookiecutter.author}}, {{cookiecutter.mail}} 
-Created: Sun Jun 30 15:16:05 CEST 2019
+Created: {% now 'utc', '%Y' %}
 
 Installation file required for the {{cookiecutter.module}}  module
 """

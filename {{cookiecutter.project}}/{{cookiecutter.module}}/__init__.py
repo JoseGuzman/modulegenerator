@@ -2,7 +2,8 @@
 """
 {{cookiecutter.module}} 
 
-A Python module
+Author: {{cookiecutter.author}}, {{cookiecutter.mail}} 
+Created: {% now 'utc', '%Y' %}
 
 """
 
