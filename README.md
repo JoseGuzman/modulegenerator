@@ -1,4 +1,4 @@
-#modulegenerator 
+# modulegenerator 
 
 A template to create custom Python modules for data science and research projects. For private use.
 
@@ -32,7 +32,7 @@ $ conda env export > environment.yml
 $ pip install -e .
 ```
 
-You can sync it to GitHub with:
+To sync it to GitHub follow the instructions  [here](https://github.com/new) and type:
 
 ```bash
 $ git init
