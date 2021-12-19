@@ -1,5 +1,7 @@
 # modulegenerator 
 [![CodeFactor](https://www.codefactor.io/repository/github/joseguzman/modulegenerator/badge)](https://www.codefactor.io/repository/github/joseguzman/modulegenerator)
+[![GitHub license](https://img.shields.io/github/license/joseguzman/modulegenerator)](https://github.com/joseguzman/modulegenerator/blob/master/LICENSE) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjosejuzman%2Fmodulegenerator&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 A template to create custom Python modules for data science and research projects. For private use.
 
