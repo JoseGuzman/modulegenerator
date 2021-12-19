@@ -1,2 +1,2 @@
 # {{cookiecutter.project}}
-{{cookiecutter.readme}}
+{{cookiecutter.description}}
