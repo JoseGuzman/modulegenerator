@@ -1,4 +1,5 @@
 # modulegenerator 
+[![CodeFactor](https://www.codefactor.io/repository/github/joseguzman/modulegenerator/badge)](https://www.codefactor.io/repository/github/joseguzman/modulegenerator)
 
 A template to create custom Python modules for data science and research projects. For private use.
 
