@@ -17,7 +17,7 @@ To know more about cookiecutter follow this [link](https://drivendata.github.io/
 It will start a new project with a Python module when running this command at the command line. 
 
 ```bash
-cookiecutter gh:JoseGuzman/modulegenerator
+cookiecutter gh:joseguzman/modulegenerator
 ```
 
 No need to create a directory first, cookiecutter will do it for you. The program will ask your name, email, project name and module name to create the template. 
